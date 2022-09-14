@@ -1,2 +1,2 @@
 # Activity
-Git activiity
+Git activity
